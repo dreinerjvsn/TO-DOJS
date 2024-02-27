@@ -15,6 +15,8 @@ body{
 
 .container{
     position: absolute;
+    top: 10%;
+    margin-left: -8%;
     background-color: var(--secn-color);
     border-radius: 10px;
     padding: 20px;
@@ -26,5 +28,11 @@ body{
     border-radius: 10px;
     border-style: hidden;
     box-shadow: none;
-
+    margin-right: 30px;
+}
+#confirm-table{
+    border-radius: 10px;
+    border-style: hidden;
+    box-shadow: none;
+    margin-left: 35px;
 }
