@@ -1,0 +1,30 @@
+:root{
+    --prim-color: #fffdf0;
+    --secn-color: #5F6F52;
+    --prim-font: 'xx', sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--prim-color) ;
+    min-height: 100vh;
+    position: relative;
+}
+
+.container{
+    position: absolute;
+    background-color: var(--secn-color);
+    border-radius: 10px;
+    padding: 20px;
+}
+#title{
+    margin-top: -2px;
+}
+#trocar-title{
+    border-radius: 10px;
+    border-style: hidden;
+    box-shadow: none;
+
+}
