@@ -1,6 +1,6 @@
 ## TO-DO list em JS
 
-- Projeto idealizado por Gabriel, com objetivo de treinamento em JavaScript
+- Projeto idealizado por amigos, com objetivo de treinamento em JavaScript
 e futuro foco me NodeJS
 
 ### Funcionalidades da Aplicação:
